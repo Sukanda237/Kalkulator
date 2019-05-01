@@ -1,0 +1,43 @@
+﻿@model Kalkulator_Client.Models.KalkulatorModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<center><h4>Kalkulator</h4></center>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+            <form asp-action="Index">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="angka_1" class="control-label">Angka 1</label>
+                    <input asp-for="angka_1" class="form-control" />
+                    <span asp-validation-for="angka_1" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="angka_2" class="control-label">Angka 2</label>
+                    <input asp-for="angka_2" class="form-control" />
+                    <span asp-validation-for="angka_2" class="text-danger"></span>
+                </div>
+                <div class="btn-group">
+                    <input type="submit" asp-for="Operasi" value="+" class="btn btn-primary" />
+                    <input type="submit" asp-for="Operasi" value="-" class="btn btn-primary" />
+                    <input type="submit" asp-for="Operasi" value="*" class="btn btn-primary" />
+                    <input type="submit" asp-for="Operasi" value="/" class="btn btn-primary" />
+                </div><br /><br />
+                <div class="form-group">
+                    <label asp-for="result" class="control-label">Hasil</label>
+                    <input asp-for="result" placeholder="hasil" class="form-control" readonly/>
+                    @*<span asp-validation-for="result" class="text-danger"></span>*@
+                </div>
+            </form>
+        </div>
+    </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

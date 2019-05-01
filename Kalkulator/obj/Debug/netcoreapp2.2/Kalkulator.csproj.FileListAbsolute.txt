@@ -1,0 +1,14 @@
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.deps.json
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.runtimeconfig.json
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.dll
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.pdb
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.RazorAssemblyInfo.cache
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.RazorAssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.RazorTargetAssemblyInfo.cache
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.dll
+C:\Users\Sukanda\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.pdb
